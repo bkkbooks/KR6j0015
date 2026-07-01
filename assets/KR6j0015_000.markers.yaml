@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0015/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6j0015_T_000-0176a07, ed: T, 'n': 0176a07}
+  - {type: line-break, offset: 0, content: '', id: KR6j0015_T_000-0176a08, ed: T, 'n': 0176a08}
+  - {type: line-break, offset: 0, content: '', id: KR6j0015_T_000-0176a09, ed: T, 'n': 0176a09}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6j0015_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6j0015_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6j0015_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '8', id: KR6j0015_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '5', id: KR6j0015_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '7', id: KR6j0015_T_000-bkkpn6}
+  - {type: line-break, offset: 0, content: '', id: KR6j0015_T_000-0176a10, ed: T, 'n': 0176a10}
+  body: []
+  back: []
+hash: sha256:b20ae0d2bd8cdbac082084921fe51f9541f34ad4928771b38b0e0489a5440ca3

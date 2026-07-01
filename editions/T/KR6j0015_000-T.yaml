@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0015/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大日經略攝念誦隨行法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0857.xml
+    old_id: T18n0857
+hash: sha256:bcb8cafc5ddf3e78d3ff67d20daeab504e2240633a65340ab5429751c34d7fa3

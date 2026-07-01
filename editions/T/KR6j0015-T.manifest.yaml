@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0015/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0015/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大日經略攝念誦隨行法
+  identifiers:
+    krp: KR6j0015
+    cbeta: T18n0857
+    cbeta_old_id: T18n0857
+    authorityid: CA0000662
+    json_key: T0857
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0857.xml
+    old_id: T18n0857
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0015_000-T.yaml, hash: 'sha256:bcb8cafc5ddf3e78d3ff67d20daeab504e2240633a65340ab5429751c34d7fa3'}
+  - {seq: 1, filename: KR6j0015_001-T.yaml, hash: 'sha256:29cd2ee488d6a65228d80983e82331e38679de433bce780bc55202877dcab0c1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0015_000-T.markers.yaml, hash: 'sha256:704f5b02845a7f298c01b3f523cc81ae5fa0e7ee87308b2c35a97c158433b71d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0015_001-T.markers.yaml, hash: 'sha256:1c3d71f6174f48e8dcd54bc89712fe5347ff9fd01f167cc28ec3a27e5275c927'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0015_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 904
+  label: '大日經略攝念誦隨行法亦名五支略念誦要行法
+
+    一卷'
+  type: juan
+  level: 1
+hash: sha256:2adbc795faf955b19d65ea1524dc4313a37605723785ccbd08f2317ed7aaf12c
